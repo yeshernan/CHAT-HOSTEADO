@@ -9,7 +9,7 @@
     "File Sharing"
   ],
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
     "dev": "nodemon app"
   },
   "author": "Saurabh Nandu saurabh@systenics.com",
